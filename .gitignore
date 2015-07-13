@@ -42,3 +42,6 @@ Backup/
 *.orig
 DownloadSigned/
 RestSharp.IntegrationTests/config.json
+*.sln
+RestSharp.sln
+*.sln
