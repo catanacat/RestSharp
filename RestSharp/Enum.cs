@@ -21,7 +21,7 @@ namespace RestSharp
     ///</summary>
     public enum ParameterType
     {
-        Cookie,
+        Cookie ,
         GetOrPost,
         UrlSegment,
         HttpHeader,
